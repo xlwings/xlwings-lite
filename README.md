@@ -1,5 +1,9 @@
 # xlwings Lite
 
+Ask questions and show off your work in the forum:
+
+https://github.com/xlwings/xlwings-lite/discussions
+
 Open your xlwings Lite issues here:
 
 https://github.com/xlwings/xlwings-lite/issues
